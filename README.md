@@ -11,7 +11,7 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 ### 🔐 Login & Signup
 
 <div align="center">
-  <img src="screenshots/login.jpg" width="250" height="500" alt="Login Screen"/>
+  <img src="screenshots/login.jpg" width="250" height="500" alt="Login Screen" style="margin-right: 20px;"/>
   <img src="screenshots/signup.jpg" width="250" height="500" alt="Signup Screen"/>
 </div>
 
@@ -20,8 +20,8 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 ### 🏠 User Dashboard
 
 <div align="center">
-  <img src="screenshots/home.jpg" width="250" height="500" alt="Home Screen"/>
-  <img src="screenshots/eventDetails.jpg" width="250" height="500" alt="Event Details"/>
+  <img src="screenshots/home.jpg" width="250" height="500" alt="Home Screen" style="margin-right: 20px;"/>
+  <img src="screenshots/eventDetails.jpg" width="250" height="500" alt="Event Details" style="margin-right: 20px;"/>
   <img src="screenshots/LikedEvents.jpg" width="250" height="500" alt="Liked Events"/>
 </div>
 
@@ -30,9 +30,10 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 ### ⚙️ Admin Dashboard
 
 <div align="center">
-  <img src="screenshots/adminHome.jpg" width="250" height="500" alt="Admin Panel"/>
+  <img src="screenshots/adminHome.jpg" width="250" height="500" alt="Admin Panel" style="margin-right: 20px;"/>
   <img src="screenshots/AdminaddEvents.jpg" width="250" height="500" alt="Add Event"/>
 </div>
+
 
 ## ✨ Features
 
