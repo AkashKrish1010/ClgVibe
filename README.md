@@ -71,10 +71,9 @@ Please feel free to [contact the author](https://github.com/akashkrish1010) if y
 ## 👨‍💻 Author
 
 **Akash Krish**  
-🔗 [github.com/akashkrish1010](https://github.com/akashkrish1010)
 
 ---
 
 ## 📄 License
 
-Licensed under the **MIT License**. See [LICENSE](LICENSE) for more.
+Licensed under the **MIT License**.
