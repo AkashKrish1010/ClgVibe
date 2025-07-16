@@ -1,6 +1,6 @@
 # 📱 ClgVibe – Campus Event Aggregator App
 
-ClgVibe is a mobile application designed to centralize and streamline the management of campus events, helping students stay informed and involved. It eliminates the confusion of scattered event announcements by providing a single, intuitive platform to explore, register, and get notified about college events.
+ClgVibe is a mobile application designed to centralize and streamline the management of campus events, helping students stay informed and involved. It eliminates the confusion of scattered event announcements by providing a single, intuitive platform where students can explore events, register for them, and track their participation — all in one place.
 
 ---
 
