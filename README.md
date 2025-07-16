@@ -9,25 +9,25 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 > Replace the placeholders below with actual images once uploaded to the repository.
 
 ### 🔐 Login Screen  
-![Login Screen](screenshots/login.jpeg)
+![Login Screen](screenshots/login.jpg)
 
 ### 📝 Signup Screen  
-![Signup Screen](screenshots/signup.png)
+![Signup Screen](screenshots/signup.jpg)
 
 ### 🏠 Home Screen  
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpg)
 
 ### 📄 Event Details  
-![Event Details](screenshots/event_details.png)
+![Event Details](screenshots/eventDetails.jpg)
 
 ### ❤️ Liked Events  
-![Liked Events](screenshots/liked_events.png)
+![Liked Events](screenshots/LikedEvents.jpg)
 
 ### ⚙️ Admin Panel  
-![Admin Panel](screenshots/admin_panel.png)
+![Admin Panel](screenshots/adminHome.jpg)
 
 ### ➕ Add Event  
-![Add Event](screenshots/add_event.png)
+![Add Event](screenshots/AdminaddEvents.jpg)
 
 ---
 
@@ -42,8 +42,8 @@ Install the app on your Android device:
 ## ✨ Features
 
 - 📋 Browse all upcoming campus events in one place  
-- ❤️ Bookmark events you’re interested in  
-- 🔔 Stay notified with reminders  
+- ❤️ Like events you’re interested in  
+- 🔔 View Registered events 
 - 🧑‍💼 Admin panel for event organizers  
 - 📷 Poster previews and event details  
 - 🔐 Login and signup for personalized experience  
