@@ -9,7 +9,7 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 > Replace the placeholders below with actual images once uploaded to the repository.
 
 ### 🔐 Login Screen  
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.jpeg)
 
 ### 📝 Signup Screen  
 ![Signup Screen](screenshots/signup.png)
