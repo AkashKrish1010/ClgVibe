@@ -6,44 +6,40 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 
 ## 🖼️ App Screenshots
 
-> Replace the placeholders below with actual images once uploaded to the repository.
+---
 
-### 🔐 Login Screen  
-![Login Screen](screenshots/login.png)
+### 🔐 Login & Signup
 
-### 📝 Signup Screen  
-![Signup Screen](screenshots/signup.png)
-
-### 🏠 Home Screen  
-![Home Screen](screenshots/home.png)
-
-### 📄 Event Details  
-![Event Details](screenshots/event_details.png)
-
-### ❤️ Liked Events  
-![Liked Events](screenshots/liked_events.png)
-
-### ⚙️ Admin Panel  
-![Admin Panel](screenshots/admin_panel.png)
-
-### ➕ Add Event  
-![Add Event](screenshots/add_event.png)
+<div align="center">
+  <img src="screenshots/login.jpg" width="250" alt="Login Screen"/>
+  <img src="screenshots/signup.jpg" width="250" alt="Signup Screen"/>
+</div>
 
 ---
 
-## 📲 Download APK
+### 🏠 User Dashboard
 
-Install the app on your Android device:
+<div align="center">
+  <img src="screenshots/home.jpg" width="250" alt="Home Screen"/>
+  <img src="screenshots/eventDetails.jpg" width="250" alt="Event Details"/>
+  <img src="screenshots/LikedEvents.jpg" width="250" alt="Liked Events"/>
+</div>
 
-👉 [**Download ClgVibe APK**](#) <!-- Replace # with actual APK file link -->
+---
 
+### ⚙️ Admin Dashboard
+
+<div align="center">
+  <img src="screenshots/adminHome.jpg" width="250" alt="Admin Panel"/>
+  <img src="screenshots/AdminaddEvents.jpg" width="250" alt="Add Event"/>
+</div>
 ---
 
 ## ✨ Features
 
 - 📋 Browse all upcoming campus events in one place  
-- ❤️ Bookmark events you’re interested in  
-- 🔔 Stay notified with reminders  
+- ❤️ Like events you’re interested in  
+- 🔔 View Registered events 
 - 🧑‍💼 Admin panel for event organizers  
 - 📷 Poster previews and event details  
 - 🔐 Login and signup for personalized experience  
