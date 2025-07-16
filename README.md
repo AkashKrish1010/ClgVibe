@@ -6,31 +6,33 @@ ClgVibe is a mobile application designed to centralize and streamline the manage
 
 ## 🖼️ App Screenshots
 
+---
+
+### 🔐 Login & Signup
+
 <div align="center">
-
-<img src="screenshots/login.jpg" width="250" alt="Login Screen"/>
-<img src="screenshots/signup.jpg" width="250" alt="Signup Screen"/>
-<img src="screenshots/home.jpg" width="250" alt="Home Screen"/>
-
-<br><br>
-
-<img src="screenshots/eventDetails.jpg" width="250" alt="Event Details"/>
-<img src="screenshots/LikedEvents.jpg" width="250" alt="Liked Events"/>
-<img src="screenshots/adminHome.jpg" width="250" alt="Admin Panel"/>
-
-<br><br>
-
-<img src="screenshots/AdminaddEvents.jpg" width="250" alt="Add Event"/>
-
+  <img src="screenshots/login.jpg" width="250" alt="Login Screen"/>
+  <img src="screenshots/signup.jpg" width="250" alt="Signup Screen"/>
 </div>
 
+---
 
-## 📲 Download APK
+### 🏠 User Dashboard
 
-Install the app on your Android device:
+<div align="center">
+  <img src="screenshots/home.jpg" width="250" alt="Home Screen"/>
+  <img src="screenshots/eventDetails.jpg" width="250" alt="Event Details"/>
+  <img src="screenshots/LikedEvents.jpg" width="250" alt="Liked Events"/>
+</div>
 
-👉 [**Download ClgVibe APK**](#) <!-- Replace # with actual APK file link -->
+---
 
+### ⚙️ Admin Dashboard
+
+<div align="center">
+  <img src="screenshots/adminHome.jpg" width="250" alt="Admin Panel"/>
+  <img src="screenshots/AdminaddEvents.jpg" width="250" alt="Add Event"/>
+</div>
 ---
 
 ## ✨ Features
